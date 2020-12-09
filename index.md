@@ -3,7 +3,9 @@
  [editor on GitHub](https://github.com/ErogitoBC/Erogito.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 ###Enhancement One: Software Design and Engineering 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ###Enhancement Two: Algoritms and Data Structure 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Enhancement Three: Databases
