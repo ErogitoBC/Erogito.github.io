@@ -5,6 +5,7 @@ where it is being held.
 
 ## Enhancement One: Software Design and Engineering 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![image](https://github.com/ErogitoBC/BizzyBeeEventTracker/blob/master/BizzyBeeApp.png)
 
 ## Enhancement Two: Algoritms and Data Structure 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
