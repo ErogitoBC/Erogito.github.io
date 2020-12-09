@@ -1,6 +1,7 @@
 ## Welcome My Project Show Case
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
- [editor on GitHub](https://github.com/ErogitoBC/Erogito.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Throughout this github web page you will find the project I worked on during my CS 499 Capstone class. Each one will come with a description as well as a link to the repository
+where it is being held.
 
 ## Enhancement One: Software Design and Engineering 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
