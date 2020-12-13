@@ -9,12 +9,12 @@ where it is being held.
 
 With the new changes the application allows for the rewriting and deleting of tasks with just a swipe!
 
-![image](https://github.com/ErogitoBC/BizzyBeeEventTracker/blob/master/BizzyBeeRewrite.png)
+![image2](https://github.com/ErogitoBC/BizzyBeeEventTracker/blob/master/BizzyBeeRewrite.png)
 
 ## Enhancement Two: Algoritms and Data Structure 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
-![image](https://github.com/ErogitoBC/SnhuTravelsite/blob/main/snhu%20travel%20site.PNG)
+![image3](https://github.com/ErogitoBC/SnhuTravelsite/blob/main/snhu%20travel%20site.PNG)
 
 ## Enhancement Three: Databases
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
-![image](https://github.com/ErogitoBC/PythonMonDB/blob/main/4C.%20Stock%20Summary.PNG)
+![image4](https://github.com/ErogitoBC/PythonMonDB/blob/main/4C.%20Stock%20Summary.PNG)
