@@ -1,4 +1,4 @@
-#CS 499 Computer Science Capstone
+# CS 499 Computer Science Capstone
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Throughout this github web page you will find the project I worked on during my CS 499 Capstone class. Each one will come with a description as well as a link to the repository
 where it is being held.
