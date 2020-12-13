@@ -3,7 +3,7 @@
 ##### Throughout this github web page you will find the projects I have worked on during my CS 499 Capstone class. Each one will come with a description as well as a link to the repository where it is being held.
 
 ## Professional Self-Assessment
-##### Start of assessment
+#### This link will guide you to my other page which displays my personal [Self-assessment](https://erogitobc.github.io/SelfAssessment.github.io/).
 
 ## Enhancement One: Software Design and Engineering 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
