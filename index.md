@@ -7,7 +7,6 @@ where it is being held.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![image](https://github.com/ErogitoBC/Erogito.github.io/blob/gh-pages/BizzyBeeAfterSplashscreen.png)
 
-With the new changes the application allows for the rewriting and deleting of tasks with just a swipe!
 
 ![image2](https://github.com/ErogitoBC/BizzyBeeEventTracker/blob/master/BizzyBeeRewrite.png)
 
