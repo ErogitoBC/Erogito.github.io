@@ -8,7 +8,7 @@ where it is being held.
 
 ## Enhancement One: Software Design and Engineering 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
-###### Using java and application development I was able to define my previous to-do list application with a spalsh screen, rewrite feature and delete feature to exapand on my Java knowledge. The link for this respective piece of work can be found at my personal [To-do list Repository](https://github.com/ErogitoBC/BizzyBeeEventTracker).
+###### Using java and application development I was able to define my previous to-do list application with a spalsh screen, rewrite feature and delete feature to exapand on my Java knowledge. The link for this respective piece of work can be found at my personal [To-do list Repository](https://github.com/ErogitoBC/UpdatedBizzyBeeApp).
 ![image2](https://raw.githubusercontent.com/ErogitoBC/Erogito.github.io/gh-pages/BizzyBeeRewrite.png)
 
 ## Enhancement Two: Algoritms and Data Structure 
