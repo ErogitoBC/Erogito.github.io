@@ -9,7 +9,8 @@ where it is being held.
 
 ## Enhancement Two: Algoritms and Data Structure 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
-![image]()
+![image](https://github.com/ErogitoBC/SnhuTravelsite/blob/main/snhu%20travel%20site.PNG)
 
 ## Enhancement Three: Databases
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![image](https://github.com/ErogitoBC/SnhuTravelsite/blob/main/snhu%20travel%20site.PNG)
