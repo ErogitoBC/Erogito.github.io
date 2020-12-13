@@ -5,14 +5,13 @@ where it is being held.
 
 ## Enhancement One: Software Design and Engineering 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
-![image](https://github.com/ErogitoBC/Erogito.github.io/blob/gh-pages/BizzyBeeAfterSplashscreen.png)
+![image](https://raw.githubusercontent.com/ErogitoBC/Erogito.github.io/gh-pages/BizzyBeeAfterSplashscreen.png)
 
-
-![image2](https://github.com/ErogitoBC/BizzyBeeEventTracker/blob/master/BizzyBeeRewrite.png)
+![image2](https://raw.githubusercontent.com/ErogitoBC/Erogito.github.io/gh-pages/BizzyBeeRewrite.png)
 
 ## Enhancement Two: Algoritms and Data Structure 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
-![image3](https://github.com/ErogitoBC/Erogito.github.io/blob/gh-pages/snhu%20travel%20site.PNG)
+![image3](https://raw.githubusercontent.com/ErogitoBC/Erogito.github.io/gh-pages/snhu%20travel%20site.PNG)
 
 ## Enhancement Three: Databases
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
