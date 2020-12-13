@@ -17,4 +17,4 @@ With the new changes the application allows for the rewriting and deleting of ta
 
 ## Enhancement Three: Databases
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
-![image4](https://github.com/ErogitoBC/PythonMonDB/blob/main/4C.%20Stock%20Summary.PNG)
+![image4](https://raw.githubusercontent.com/ErogitoBC/Erogito.github.io/gh-pages/4C.%20Stock%20Summary.PNG)
