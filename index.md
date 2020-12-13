@@ -7,6 +7,10 @@ where it is being held.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![image](https://github.com/ErogitoBC/BizzyBeeEventTracker/blob/master/BizzyBeeApp.png)
 
+With the new changes the application allows for the rewriting and deleting of tasks with just a swipe!
+
+![image](https://github.com/ErogitoBC/BizzyBeeEventTracker/blob/master/BizzyBeeRewrite.png)
+
 ## Enhancement Two: Algoritms and Data Structure 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![image](https://github.com/ErogitoBC/SnhuTravelsite/blob/main/snhu%20travel%20site.PNG)
