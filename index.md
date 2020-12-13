@@ -13,7 +13,7 @@ With the new changes the application allows for the rewriting and deleting of ta
 
 ## Enhancement Two: Algoritms and Data Structure 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
-![image3](https://github.com/ErogitoBC/SnhuTravelsite/blob/main/snhu%20travel%20site.PNG)
+![image3](https://github.com/ErogitoBC/Erogito.github.io/blob/gh-pages/snhu%20travel%20site.PNG)
 
 ## Enhancement Three: Databases
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
