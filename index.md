@@ -1,7 +1,6 @@
 # CS 499 Computer Science Capstone
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Throughout this github web page you will find the project I worked on during my CS 499 Capstone class. Each one will come with a description as well as a link to the repository
-where it is being held.
+##### Throughout this github web page you will find the projects I have worked on during my CS 499 Capstone class. Each one will come with a description as well as a link to the repository where it is being held.
 
 ## Professional Self-Assessment
 ##### Start of assessment
