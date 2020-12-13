@@ -5,7 +5,7 @@ where it is being held.
 
 ## Enhancement One: Software Design and Engineering 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
-![image](https://github.com/ErogitoBC/BizzyBeeEventTracker/blob/master/BizzyBeeApp.png)
+![image](https://github.com/ErogitoBC/Erogito.github.io/blob/gh-pages/BizzyBeeAfterSplashscreen.png)
 
 With the new changes the application allows for the rewriting and deleting of tasks with just a swipe!
 
