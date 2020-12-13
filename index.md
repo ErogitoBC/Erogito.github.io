@@ -3,11 +3,12 @@
 Throughout this github web page you will find the project I worked on during my CS 499 Capstone class. Each one will come with a description as well as a link to the repository
 where it is being held.
 
+# Professional Self-Assessment
+###### Start of assessment
+
 ## Enhancement One: Software Design and Engineering 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ###### Using java and application development I was able to define my previous to-do list application with a spalsh screen, rewrite feature and delete feature to exapand on my Java knowledge. The link for this respective piece of work can be found at my personal [To-do list Repository](https://github.com/ErogitoBC/BizzyBeeEventTracker).
-![image](https://raw.githubusercontent.com/ErogitoBC/Erogito.github.io/gh-pages/BizzyBeeAfterSplashscreen.png)
-
 ![image2](https://raw.githubusercontent.com/ErogitoBC/Erogito.github.io/gh-pages/BizzyBeeRewrite.png)
 
 ## Enhancement Two: Algoritms and Data Structure 
